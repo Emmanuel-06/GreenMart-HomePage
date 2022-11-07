@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GreemartHome</string>
+    <string name="search">Search Keywords...</string>
+    <string name="categories">Categories</string>
+    <string name="vegetables">Vegetables</string>
+    <string name="fruits">Fruits</string>
+    <string name="beverages">Beverages</string>
+    <string name="grocery">Grocery</string>
+    <string name="edible_oil">Edible Oil</string>
+    <string name="household">Household</string>
+    <string name="featured_products">Featured Products</string>
+    <string name="amount_peach">N5000</string>
+    <string name="name_peach">Fresh Peach</string>
+    <string name="quantity_peach">dozen</string>
+    <string name="avocado">Avocado</string>
+    <string name="quantity_avocado">1 pcs</string>
+    <string name="amount_avocado">N500</string>
+    <string name="add_to_cart_peach">Add to Cart</string>
+
+</resources>
